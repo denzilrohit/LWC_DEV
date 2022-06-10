@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/denzilrohit.lwc-l47zvmtr-fork-l4805szu",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve tkkRkYJIBM6NuLCEpYYC --open"
+  }
+}
